@@ -3,9 +3,10 @@
 측정 코드 : 324115
 주소 : 광주 동구 서남로 1
 
-PM10 : 미세먼지
-PM25 : 초미세먼지
-O3 : 오존
+PM10 : 미세먼지 (fine particulate matter) - 지름이 10 마이크로미터 이하의 입자 크기를 가진 먼지 
+PM25 : 초미세먼지 (fine particulate matter) - 지름이 2.5 마이크로미터 이하의 입자 크기를 가진 먼지
+O3 : 오존 (Ozone)
+     특유한 냄새 때문에 '냄새를 맡다'를 뜻하는 그리스 어 ozein을 딴 오존은 산소의 동소체로 분자식이 O3로, 산소에 비하여 매우 불안정한 물질
 
 SO2 : 산소 포화도 (Oxygen Saturation)
 CO : 일산화탄소 (Carbon Monoxide)
