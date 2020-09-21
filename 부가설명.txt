@@ -1,10 +1,15 @@
 지역 : 광주 동구 
 측정소 명 : 서석동 
+측정 코드 : 324115
 주소 : 광주 동구 서남로 1
 
 PM10 : 미세먼지
 PM25 : 초미세먼지
 O3 : 오존
+
+SO2 : 산소 포화도 (Oxygen Saturation)
+CO : 일산화탄소 (Carbon Monoxide)
+NO2 : 이산화질소 (Nitrogen Dioxide)
 
 
 데이터 출처 : 에어코리아, 한국환경공단, 국립환경과학원
