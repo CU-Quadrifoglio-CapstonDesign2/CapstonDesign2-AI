@@ -1,0 +1,10 @@
+Using IDLE : Android Studio
+
+compileSdkVersion 30
+buildToolsVersion "29.0.2"
+
+applicationId "org.techtown.daehan.mushroomc" (패키지 이름)
+minSdkVersion 19
+targetSdkVersion 30
+        
+        
